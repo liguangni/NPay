@@ -5,10 +5,9 @@
 
     <groupId>com.lgn</groupId>
     <artifactId>NPay</artifactId>
-    <version>4.7.2</version>
+    <version>0.1.0</version>
 
     <name>Npay</name>
-    <url>http://www.ruoyi.vip</url>
     <description>NPay支付对接系统</description>
     
     <properties>
@@ -219,8 +218,6 @@
         <module>Npay-admin</module>
         <module>Npay-framework</module>
         <module>Npay-system</module>
-        <module>Npay-quartz</module>
-        <module>Npay-generator</module>
         <module>Npay-common</module>
     </modules>
     <packaging>pom</packaging>
